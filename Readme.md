@@ -3,7 +3,7 @@
 
 
 If u are using CODEBLOCKS
-Go to Project->Build Options->Linker Settings->type "winmm" in the text box and click add.
+Go to Project->Build Options->Linker Settings->click on add type "winmm" in the text box and click ok.
 
 
 
