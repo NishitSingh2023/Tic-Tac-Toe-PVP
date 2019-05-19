@@ -783,37 +783,37 @@ int main()
             {
                 mus2:
                 gotoxy(0,23);
-                printf("Enter 1 for OMG\n");
-                printf("Enter 2 for Rockstar\n");
-                printf("Enter 3 for Shot Me Down\n");
-                printf("Enter 4 for Bomb a drop\n");
-                printf("Enter 5 for Feedback\n");
+                printf("Enter 1 for Get Down\n");
+                printf("Enter 2 for Riddim\n");
+                printf("Enter 3 for King Drop\n");
+                printf("Enter 4 for Origin\n");
+                printf("Enter 5 for Latency\n");
                 scanf("%d",&mus);
                 switch(mus)
                 {
                     case 1:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\OMG.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\GD.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 2:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\PM.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Mr.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 3:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\SMD.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Kb.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 4:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\BAD.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Mo.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 5:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\FB.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\La.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     default:
@@ -1092,7 +1092,6 @@ int main()
     {
         u1=0;
         u2=0;
-        PlaySound(TEXT("C:\\Users\\vaibhav bahl\\Downloads\\b.wav"),NULL,SND_ASYNC);
         system("cls");
         gotoxy(53,13);
         printf("Restarting");
