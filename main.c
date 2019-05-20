@@ -94,7 +94,7 @@ int main()
     gotoxy(50,1);
     printf("Developed by VAIBHAV BAHL");
     char ch,name[10],name1[10],con,p1s,p2s,str[6],un;
-    PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\bbb.wav"),NULL,SND_ASYNC);
+    PlaySound(TEXT("Converted Audio\\bbb.wav"),NULL,SND_ASYNC);
     gotoxy(0,3);
     name2:
     gotoxy(0,3);
@@ -402,27 +402,27 @@ int main()
                 {
                     case 1:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\GD.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\GD.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 2:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Mr.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\Mr.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 3:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Kb.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\Kb.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 4:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Mo.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\Mo.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 5:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\La.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\La.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     default:
@@ -793,27 +793,27 @@ int main()
                 {
                     case 1:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\GD.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\GD.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 2:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Mr.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\Mr.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 3:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Kb.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\Kb.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 4:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\Mo.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\Mo.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     case 5:
                     {
-                        PlaySound(TEXT("E:\\New folder\\Tic Tac Toe PVP\\Converted Audio\\La.wav"),NULL,SND_ASYNC);
+                        PlaySound(TEXT("Converted Audio\\La.wav"),NULL,SND_ASYNC);
                         break;
                     }
                     default:
