@@ -39,7 +39,7 @@ void hidecursor()
 }
 int main()
 {
-    SetColor(10);
+    SetColor(9);
     hidecursor();
     system("cls");
     start:
@@ -89,7 +89,7 @@ int main()
     system("cls");
     int offset=0;
     gotoxy(57,0);
-    SetColor(10);
+    SetColor(9);
     printf("TIC TAC TOE");
     gotoxy(50,1);
     printf("Developed by VAIBHAV BAHL");
