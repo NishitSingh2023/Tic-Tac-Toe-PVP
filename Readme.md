@@ -7,7 +7,7 @@ __This is a _C program_ that uses `graphics` to makes a two player `Tic Tac Toe`
 
 > This program Also `plays songs` for you while you both players try to beat each other!
 
-***
+ 
 ## How to Run The Game:
 
 In order to run the game You need to open and run the `Tic-Tac-Toe-PVP.cbp` in your IDE preferably [Code::Blocks](http://www.codeblocks.org/)
@@ -27,12 +27,15 @@ In order to run the game You need to open and run the `Tic-Tac-Toe-PVP.cbp` in y
 ***
 ## TroubleShooting
 __For Music Not Playing:__<br>
-- If u are using CODEBLOCKS:
-- - Go to `Project` -> `Build Options` -> `Linker Settings` -> click on `add` type "**winmm**" in the text box and click `ok`
+- If u are using CODEBLOCKS:<br>
+     Go to `Project` -> `Build Options` -> `Linker Settings` -> click on `add` type "**winmm**" in the text box and click `ok`
 <br>
 
-- If u are using DEV C++:
-- - Go to `Project` -> `Project Options` -> `Parameters` -> in `linker` type "**-lwinmm**" in text box and click `ok`
+- If u are using DEV C++:<br>
+    Go to `Project` -> `Project Options` -> `Parameters` -> in `linker` type "**-lwinmm**" in text box and click `ok`
 <br>
 
 - If u are using any other IDE search online for the settings on how to play music in c code in your IDE
+
+**For Any Other Queries/Problems:**<br>
+      Kindly Contact *ME* Through vibhubahl10@gmail.com
