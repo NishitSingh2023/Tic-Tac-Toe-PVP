@@ -1,5 +1,6 @@
 # TIC TAC TOE in C <br><br>
-### _by Vaibhav Bahl_
+### _by Vaibhav Bahl And Nishit Singh_
+![image](https://github.com/NishitSingh2023/TIC-TAC-TOE/blob/master/Tic_tac_toe.png)
 
 __This is a _C program_ that uses `graphics` to makes a two player `Tic Tac Toe` in C with much better terminal experience__
 
@@ -38,4 +39,4 @@ __For Music Not Playing:__<br>
 - If u are using any other IDE search online for the settings on how to play music in c code in your IDE
 
 **For Any Other Queries/Problems:**<br>
-      Kindly Contact *ME* Through vibhubahl10@gmail.com
+      Kindly Contact *ME* Through vibhubahl10@gmail.com And ns2023@gmail.com
